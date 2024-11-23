@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+}
+
+.me1{
+    background-color: aqua;
+    background-size: cover;
+    height: 130vh;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.go{
+    color: brown;
+    padding: 3px;
+    font-weight: bold;
+}
+.mana1{
+    color: black;
+    background-color: aliceblue;
+    border-radius: 15px;
+    width: 900px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.head{
+    text-align: center;
+    margin: 5px;
+
+}
+.imge{
+    height: 140px;
+    width: 150px;
+    border-radius: 14px;
+    padding: 5px;
+}
+.paa{
+    text-align: start;
+    font-size: 25px;
+    width: 500px;
+
+}
+.itemContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 900px;
+   
+}
+.btn{
+    height: 20px;
+    width: 136px;
+    color: black;
+    background-color: rgb(131, 162, 29);
+    border-radius: 10px;
+}
+.bt1{
+    padding: 10px;
+}
+.p1{
+    font-size: 20px;
+    color: rgb(83, 25, 3);
+    text-decoration-line: underline;
+    font-weight: 700;
+}
