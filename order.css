@@ -1,7 +1,15 @@
 .car{
     background-color: antiquewhite;
-    height: 50vh;
+    height: 55vh;
     text-align: center;
     padding: 10px;
     width: 100vw;
+}
+.hero{
+    text-align: center;
+}
+.imgg{
+    width: 200px;
+    height: 150px;
+    border-radius: 200px;
 }
